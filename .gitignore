@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+work/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tsbuildinfo
+.DS_Store
